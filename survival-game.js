@@ -27,6 +27,10 @@ const config = {
                 mapping: 'matterCollision'
             }
         ]
+    },
+    fps: {
+        target: 60,
+        forceSetTimeOut: true
     }
 }
 
