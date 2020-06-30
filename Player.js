@@ -3,7 +3,7 @@ import MatterEntity from "./MatterEntity.js"
 export default class Player extends MatterEntity {
     constructor(data) {
         const { scene, x, y, texture, frame } = data
-        super({...data, health: 2, drops: [], name: 'player'})
+        super({...data, health: 20, drops: [], name: 'player'})
         this.touching = []
         //Weapon
         this.spriteWeapon = new Phaser.GameObjects.Sprite(this.scene, 50, 50, 'items', 162)
@@ -23,7 +23,10 @@ export default class Player extends MatterEntity {
         this.CreateMiningCollisions(playerSensor)
         this.CreatePickupCollisions(playerCollider)
 
-        this.scene.input.on('pointermove', pointer => this.setFlipX(pointer.worldX < this.x))
+        this.scene.input.on('pointermove', pointer => {
+            if(this.dead) return
+            this.setFlipX(pointer.worldX < this.x)
+        })
     }
 
     static preload(scene) {
@@ -33,7 +36,15 @@ export default class Player extends MatterEntity {
         scene.load.audio('player', 'assets/audio/player.mp3')
     }
 
+    onDeath = () => {
+        this.anims.stop()
+        this.setTexture('items', 0)
+        this.setOrigin(0.5)
+        this.spriteWeapon.destroy()
+    }
+
     update() {
+        if(this.dead) return
         const speed = 2.5
         let playerVelocity = new Phaser.Math.Vector2()
         if (this.inputKeys.left.isDown) {
@@ -87,7 +98,7 @@ export default class Player extends MatterEntity {
             callback: other => {
                 if(other.bodyB.isSensor) return
                 this.touching.push(other.gameObjectB)
-                console.log(this.touching.length, other.gameObjectB.name)
+                // console.log(this.touching.length, other.gameObjectB.name)
             },
             // 用箭頭函式就不用設context了
             // context: this

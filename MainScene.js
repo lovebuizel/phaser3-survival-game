@@ -12,14 +12,14 @@ export default class MainScene extends Phaser.Scene {
         Player.preload(this)
         Enemy.preload(this)
         Resource.preload(this)
-        this.load.image('tiles', 'assets/images/RPG Nature Tileset.png')
+        this.load.image('tiles', 'assets/images/RPG Nature Tileset-extruded.png')
         this.load.tilemapTiledJSON('map', 'assets/images/map.json')
     }
     
     create() {
         const map = this.make.tilemap({ key: 'map' })
         this.map = map
-        const tileset = map.addTilesetImage('RPG Nature Tileset', 'tiles', 32, 32, 0, 0)
+        const tileset = map.addTilesetImage('RPG Nature Tileset', 'tiles', 32, 32, 1, 2)
         const layer1 = map.createStaticLayer('圖塊層 1', tileset, 0, 0)
         const layer2 = map.createStaticLayer('圖塊層 2', tileset, 0, 0)
         layer1.setCollisionByProperty({ collides: true })
@@ -34,19 +34,18 @@ export default class MainScene extends Phaser.Scene {
             texture: 'female',
             frame: 'townsfolk_f_idle_1'
         })
-        // const testPlayer = new Player({
-        //     scene: this,
-        //     x: 100,
-        //     y: 100,
-        //     texture: 'female',
-        //     frame: 'townsfolk_f_idle_1'
-        // })
         this.player.inputKeys = this.input.keyboard.addKeys({
             up: Phaser.Input.Keyboard.KeyCodes.W,
             down: Phaser.Input.Keyboard.KeyCodes.S,
             left: Phaser.Input.Keyboard.KeyCodes.A,
             right: Phaser.Input.Keyboard.KeyCodes.D
         })
+
+        const camera = this.cameras.main
+        camera.zoom = 2
+        camera.startFollow(this.player)
+        camera.setLerp(0.1, 0.1)
+        camera.setBounds(0, 0, this.game.config.width, this.game.config.height)
     }
 
     update() {

@@ -12,7 +12,7 @@
  "layers":[
         {
          "compression":"",
-         "data":"QgAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABEAAAAmAAAAEIAAABDAAAAQwAAAEMAAABDAAAARAAAAFYAAAApAAAAKQAAACkAAABXAAAAVwAAAFcAAABXAAAAWQAAAEQAAABWAAAAVwAAAFcAAABXAAAAVwAAAFgAAABWAAAAUgAAAFIAAABSAAAAVwAAAFcAAABXAAAAVwAAAFcAAABZAAAAWgAAAFcAAABXAAAAVwAAAFcAAABYAAAAVgAAAFIAAABSAAAAUgAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAWAAAAFYAAABSAAAAUgAAAFIAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFgAAABWAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAEUAAABsAAAAVgAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABZAAAARAAAAFYAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFgAAABWAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABYAAAAVgAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFIAAABXAAAAWAAAAFYAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFgAAABqAAAARgAAAFcAAABXAAAAVwAAAFcAAABXAAAAUgAAAFcAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABYAAAAmAAAAFYAAABXAAAAVwAAAFcAAABXAAAAUgAAAFIAAABXAAAAVwAAAFcAAABXAAAAVwAAAFcAAABXAAAAWAAAAJgAAABWAAAAVwAAAFcAAABXAAAAVwAAAFIAAABSAAAAjgAAAFIAAABXAAAAVwAAAFcAAABXAAAAVwAAAFgAAACYAAAAagAAAGsAAABGAAAAVwAAAFcAAABFAAAAawAAAGsAAABrAAAARgAAAFcAAACOAAAAjgAAAI4AAABYAAAAmAAAAJgAAACYAAAAagAAAGsAAABrAAAAbAAAACoAAACYAAAAmAAAAGoAAABrAAAAawAAAGsAAABrAAAAbAAAAA==",
+         "data":"ZgAAAGcAAABnAAAAZwAAAGcAAABnAAAAZwAAAGcAAABoAAAA7AAAAGYAAABnAAAAZwAAAGcAAABnAAAAaAAAAIYAAABBAAAAQQAAAEEAAACHAAAAhwAAAIcAAACHAAAAiQAAAGgAAACGAAAAhwAAAIcAAACHAAAAhwAAAIgAAACGAAAAggAAAIIAAACCAAAAhwAAAIcAAACHAAAAhwAAAIcAAACJAAAAigAAAIcAAACHAAAAhwAAAIcAAACIAAAAhgAAAIIAAACCAAAAggAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAiAAAAIYAAACCAAAAggAAAIIAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIgAAACGAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAGkAAACoAAAAhgAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACJAAAAaAAAAIYAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIgAAACGAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACIAAAAhgAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIIAAACHAAAAiAAAAIYAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIgAAACmAAAAagAAAIcAAACHAAAAhwAAAIcAAACHAAAAggAAAIcAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACIAAAA7AAAAIYAAACHAAAAhwAAAIcAAACHAAAAggAAAIIAAACHAAAAhwAAAIcAAACHAAAAhwAAAIcAAACHAAAAiAAAAOwAAACGAAAAhwAAAIcAAACHAAAAhwAAAIIAAACCAAAA4gAAAIIAAACHAAAAhwAAAIcAAACHAAAAhwAAAIgAAADsAAAApgAAAKcAAABqAAAAhwAAAIcAAABpAAAApwAAAKcAAACnAAAAagAAAIcAAADiAAAA4gAAAOIAAACIAAAA7AAAAOwAAADsAAAApgAAAKcAAACnAAAAqAAAAEIAAADsAAAA7AAAAKYAAACnAAAApwAAAKcAAACnAAAAqAAAAA==",
          "encoding":"base64",
          "height":16,
          "id":1,
@@ -26,7 +26,7 @@
         }, 
         {
          "compression":"",
-         "data":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4AAAB\/AAAAfwAAAH8AAAB\/AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSAAAAkwAAAJMAAACTAAAAkwAAAJQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkgAAAJMAAACTAAAAkwAAAJMAAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+AAAAfwAAAIAAAAAAAAAAAAAAAKYAAACnAAAApwAAAKcAAACnAAAAqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkgAAAJMAAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIAAACTAAAAlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACmAAAApwAAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfgAAAH8AAAB\/AAAAfwAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAfgAAAH8AAAB\/AAAAgAAAAAAAAAAAAAAAAAAAAJIAAACTAAAAkwAAAJMAAACUAAAAAAAAAAAAAAAAAAAAAAAAAKYAAACnAAAApwAAAKgAAAAAAAAAAAAAAAAAAACmAAAApwAAAKcAAACnAAAAqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+         "data":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYAAADHAAAAxwAAAMcAAADHAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADmAAAA5wAAAOcAAADnAAAA5wAAAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5gAAAOcAAADnAAAA5wAAAOcAAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADGAAAAxwAAAMgAAAAAAAAAAAAAAAYBAAAHAQAABwEAAAcBAAAHAQAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5gAAAOcAAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOYAAADnAAAA6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQAABwEAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxgAAAMcAAADHAAAAxwAAAMgAAAAAAAAAAAAAAAAAAAAAAAAAxgAAAMcAAADHAAAAyAAAAAAAAAAAAAAAAAAAAOYAAADnAAAA5wAAAOcAAADoAAAAAAAAAAAAAAAAAAAAAAAAAAYBAAAHAQAABwEAAAgBAAAAAAAAAAAAAAAAAAAGAQAABwEAAAcBAAAHAQAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
          "encoding":"base64",
          "height":16,
          "id":2,
@@ -44,7 +44,7 @@
          "name":"Resources",
          "objects":[
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":20,
                  "name":"",
@@ -72,7 +72,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":21,
                  "name":"",
@@ -100,7 +100,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":22,
                  "name":"",
@@ -128,7 +128,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":36,
                  "name":"",
@@ -156,7 +156,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":37,
                  "name":"",
@@ -184,7 +184,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":38,
                  "name":"",
@@ -212,7 +212,7 @@
                  "y":320
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":39,
                  "name":"",
@@ -240,7 +240,7 @@
                  "y":384
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":40,
                  "name":"",
@@ -268,7 +268,7 @@
                  "y":320
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":41,
                  "name":"",
@@ -296,7 +296,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":42,
                  "name":"",
@@ -324,7 +324,7 @@
                  "y":256
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":43,
                  "name":"",
@@ -352,7 +352,7 @@
                  "y":256
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":44,
                  "name":"",
@@ -380,7 +380,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":45,
                  "name":"",
@@ -408,7 +408,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":46,
                  "name":"",
@@ -436,7 +436,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":47,
                  "name":"",
@@ -464,7 +464,7 @@
                  "y":128
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":48,
                  "name":"",
@@ -492,7 +492,7 @@
                  "y":96
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":49,
                  "name":"",
@@ -520,7 +520,7 @@
                  "y":96
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":50,
                  "name":"",
@@ -548,7 +548,7 @@
                  "y":96
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":51,
                  "name":"",
@@ -576,7 +576,7 @@
                  "y":128
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":52,
                  "name":"",
@@ -604,7 +604,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":53,
                  "name":"",
@@ -632,7 +632,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":54,
                  "name":"",
@@ -660,7 +660,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":55,
                  "name":"",
@@ -688,7 +688,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":56,
                  "name":"",
@@ -716,7 +716,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":57,
                  "name":"",
@@ -744,7 +744,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":21,
+                 "gid":33,
                  "height":32,
                  "id":58,
                  "name":"",
@@ -772,7 +772,7 @@
                  "y":320
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":59,
                  "name":"",
@@ -800,7 +800,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":60,
                  "name":"",
@@ -828,7 +828,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":61,
                  "name":"",
@@ -856,7 +856,7 @@
                  "y":256
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":62,
                  "name":"",
@@ -884,7 +884,7 @@
                  "y":416
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":63,
                  "name":"",
@@ -912,7 +912,7 @@
                  "y":384
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":64,
                  "name":"",
@@ -940,7 +940,7 @@
                  "y":416
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":65,
                  "name":"",
@@ -968,7 +968,7 @@
                  "y":384
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":66,
                  "name":"",
@@ -996,7 +996,7 @@
                  "y":384
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":67,
                  "name":"",
@@ -1024,7 +1024,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":68,
                  "name":"",
@@ -1052,7 +1052,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":22,
+                 "gid":34,
                  "height":32,
                  "id":69,
                  "name":"",
@@ -1080,7 +1080,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":70,
                  "name":"",
@@ -1108,7 +1108,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":71,
                  "name":"",
@@ -1136,7 +1136,7 @@
                  "y":160
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":72,
                  "name":"",
@@ -1164,7 +1164,7 @@
                  "y":416
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":73,
                  "name":"",
@@ -1192,7 +1192,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":74,
                  "name":"",
@@ -1220,7 +1220,7 @@
                  "y":448
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":75,
                  "name":"",
@@ -1248,7 +1248,7 @@
                  "y":256
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":76,
                  "name":"",
@@ -1276,7 +1276,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":77,
                  "name":"",
@@ -1304,7 +1304,7 @@
                  "y":160
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":79,
                  "name":"",
@@ -1332,7 +1332,7 @@
                  "y":64
                 }, 
                 {
-                 "gid":23,
+                 "gid":35,
                  "height":32,
                  "id":80,
                  "name":"",
@@ -1364,28 +1364,120 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":8,
+         "name":"Enemies",
+         "objects":[
+                {
+                 "gid":1029,
+                 "height":32,
+                 "id":82,
+                 "name":"ent",
+                 "properties":[
+                        {
+                         "name":"drops",
+                         "type":"string",
+                         "value":"[201,203]"
+                        }, 
+                        {
+                         "name":"health",
+                         "type":"int",
+                         "value":8
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":384,
+                 "y":128
+                }, 
+                {
+                 "gid":1037,
+                 "height":32,
+                 "id":83,
+                 "name":"wolf",
+                 "properties":[
+                        {
+                         "name":"drops",
+                         "type":"string",
+                         "value":"[243]"
+                        }, 
+                        {
+                         "name":"health",
+                         "type":"int",
+                         "value":5
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":384,
+                 "y":384
+                }, 
+                {
+                 "gid":1025,
+                 "height":32,
+                 "id":81,
+                 "name":"bear",
+                 "properties":[
+                        {
+                         "name":"drops",
+                         "type":"string",
+                         "value":"[241,280]"
+                        }, 
+                        {
+                         "name":"health",
+                         "type":"int",
+                         "value":10
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":96,
+                 "y":288
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":8,
- "nextobjectid":81,
+ "nextlayerid":9,
+ "nextobjectid":84,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.0",
  "tileheight":32,
  "tilesets":[
         {
-         "columns":20,
+         "columns":32,
          "firstgid":1,
-         "image":"Downloads\/RPG Nature Tileset.png",
-         "imageheight":288,
-         "imagewidth":641,
+         "image":"RPG Nature Tileset.png",
+         "imageheight":1024,
+         "imagewidth":1024,
          "margin":0,
          "name":"RPG Nature Tileset",
          "spacing":0,
-         "tilecount":180,
+         "tilecount":1024,
          "tileheight":32,
          "tiles":[
                 {
                  "id":20,
+                 "type":"tree"
+                }, 
+                {
+                 "id":21,
+                 "type":"bush"
+                }, 
+                {
+                 "id":22,
+                 "type":"rock"
+                }, 
+                {
+                 "id":32,
                  "properties":[
                         {
                          "name":"depth",
@@ -1401,11 +1493,10 @@
                          "name":"yOrigin",
                          "type":"float",
                          "value":0.8
-                        }],
-                 "type":"tree"
+                        }]
                 }, 
                 {
-                 "id":21,
+                 "id":33,
                  "properties":[
                         {
                          "name":"depth",
@@ -1421,11 +1512,10 @@
                          "name":"yOrigin",
                          "type":"float",
                          "value":0.6
-                        }],
-                 "type":"bush"
+                        }]
                 }, 
                 {
-                 "id":22,
+                 "id":34,
                  "properties":[
                         {
                          "name":"depth",
@@ -1441,11 +1531,10 @@
                          "name":"yOrigin",
                          "type":"float",
                          "value":0.6
-                        }],
-                 "type":"rock"
+                        }]
                 }, 
                 {
-                 "id":65,
+                 "id":101,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1487,7 +1576,7 @@
                         }]
                 }, 
                 {
-                 "id":66,
+                 "id":102,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1518,7 +1607,7 @@
                         }]
                 }, 
                 {
-                 "id":67,
+                 "id":103,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1560,7 +1649,7 @@
                         }]
                 }, 
                 {
-                 "id":68,
+                 "id":104,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1576,161 +1665,6 @@
                              "width":8,
                              "x":24,
                              "y":24
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":69,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":8,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":8,
-                             "x":0,
-                             "y":24
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":85,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":32,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":8,
-                             "x":0,
-                             "y":0
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":87,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":32,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":8,
-                             "x":24,
-                             "y":0
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":88,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":8,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":8,
-                             "x":24,
-                             "y":0
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":89,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":8,
-                             "id":1,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":8,
-                             "x":0,
-                             "y":0
                             }],
                      "opacity":1,
                      "type":"objectgroup",
@@ -1753,6 +1687,161 @@
                      "name":"",
                      "objects":[
                             {
+                             "height":8,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8,
+                             "x":0,
+                             "y":24
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":133,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":135,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8,
+                             "x":24,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":136,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":8,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8,
+                             "x":24,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":137,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":8,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":165,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "name":"",
+                     "objects":[
+                            {
                              "height":32,
                              "id":1,
                              "name":"",
@@ -1788,7 +1877,7 @@
                         }]
                 }, 
                 {
-                 "id":106,
+                 "id":166,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1819,7 +1908,7 @@
                         }]
                 }, 
                 {
-                 "id":107,
+                 "id":167,
                  "objectgroup":
                     {
                      "draworder":"index",
@@ -1860,6 +1949,19 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":1025,
+         "image":"enemies.png",
+         "imageheight":166,
+         "imagewidth":166,
+         "margin":1,
+         "name":"enemies",
+         "spacing":1,
+         "tilecount":25,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
